@@ -1,18 +1,18 @@
-# expertoption_test
+# test
 
 Random Data
 --------------------
 
-expertoption_test=# select count(id) from expertoption_deal;
+test=# select count(id) from test_deal;
 count
 11909810
 (1 row)
 
-expertoption_test=# select count(id) from expertoption_transaction;
+test=# select count(id) from test_transaction;
 11909810
 (1 row)
 
-expertoption_test=# select count(id) from expertoption_trader;
+test=# select count(id) from test_trader;
 20100
 (1 row)
 
